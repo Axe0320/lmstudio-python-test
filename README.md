@@ -4,10 +4,10 @@ LM Studio のローカル LLM を Python から呼び出し、SNS文章の感情
 
 ## 使用技術
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![LM Studio](https://img.shields.io/badge/LM%20Studio-Local%20LLM-000000?style=flat-square)](https://lmstudio.ai)
+[![Docker](https://img.shields.io/badge/Docker-Dev%20Container-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-Development-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 
 ## 機能
 
