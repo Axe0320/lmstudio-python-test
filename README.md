@@ -17,16 +17,17 @@ LM Studio のローカル LLM を Python から呼び出し、SNS文章の感情
 
 ## ディレクトリ構成
 
+```text
 lmstudio-python-test/
 ├── .devcontainer/
-│ ├── devcontainer.json
-│ └── Dockerfile
+│   ├── devcontainer.json
+│   └── Dockerfile
 ├── main.py
-├── .env
 ├── .env.example
 ├── .gitignore
-├── requirements.txt
-└── LocalLLM_Test.csv
+├── README.md
+└── requirements.txt
+```
 
 ## セットアップ
 
